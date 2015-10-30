@@ -3,10 +3,11 @@ Uses Crt;
 Begin
 ClrScr;
 Writeln(‘Hello’);//
-Writeln(‘NIM’); //
-Writeln(‘Nama’); //
-Writeln(‘Kelas’); //
-Writeln(‘Asprak’); //
-Writeln(‘NIM Teman’); //
-Writeln(‘Modul 10’); //
+Writeln;
+Writeln(‘1301150051’); //
+Writeln(‘M. Salman Al Farisi’); //
+Writeln(‘IF 39-09’); //
+Writeln(‘Alex’); //
+Writeln(‘130115459’); //
+Writeln(‘Modul 6’); //
 End.
